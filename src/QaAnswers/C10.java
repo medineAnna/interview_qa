@@ -28,6 +28,7 @@ public class C10 {
 			
 		}
 		System.out.println("\nListin ilk hali : "+list);
+		scan.close();
 		
 		for (int i = 0; i < list.size(); i++) {
 			
